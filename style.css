@@ -38,7 +38,7 @@ section {
 
 .cardsOutLine::before {
 	background: radial-gradient(
-	60em circle at var(--mouse-x) var(--mouse-y),
+	30em circle at var(--mouse-x) var(--mouse-y),
 		rgba(170, 142, 226, 0.03),
 		transparent 100%
 	);
@@ -47,7 +47,7 @@ section {
 
 .cardsOutLine::after {
 	background: radial-gradient(
-		50em circle at var(--mouse-x) var(--mouse-y),
+		40em circle at var(--mouse-x) var(--mouse-y),
 		rgba(243, 233, 255, 0.8),
 		transparent 100%
 	);
